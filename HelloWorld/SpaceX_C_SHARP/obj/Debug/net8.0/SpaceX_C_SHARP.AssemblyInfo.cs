@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpaceX_C_SHARP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dec1aedec18e453eddb8776e51c038825cdede3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35a60cfc27068b29aaba81523d3d5d15b37d1f5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpaceX_C_SHARP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpaceX_C_SHARP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
