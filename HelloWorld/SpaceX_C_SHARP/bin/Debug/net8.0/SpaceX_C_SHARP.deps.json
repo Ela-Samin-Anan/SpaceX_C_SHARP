@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SpaceX_C_SHARP/1.0.0": {
+        "runtime": {
+          "SpaceX_C_SHARP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpaceX_C_SHARP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

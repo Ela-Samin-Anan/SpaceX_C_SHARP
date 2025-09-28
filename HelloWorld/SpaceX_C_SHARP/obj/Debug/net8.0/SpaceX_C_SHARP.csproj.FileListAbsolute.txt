@@ -1,0 +1,15 @@
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\bin\Debug\net8.0\SpaceX_C_SHARP.exe
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\bin\Debug\net8.0\SpaceX_C_SHARP.deps.json
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\bin\Debug\net8.0\SpaceX_C_SHARP.runtimeconfig.json
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\bin\Debug\net8.0\SpaceX_C_SHARP.dll
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\bin\Debug\net8.0\SpaceX_C_SHARP.pdb
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\obj\Debug\net8.0\SpaceX_C_SHARP.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\obj\Debug\net8.0\SpaceX_C_SHARP.AssemblyInfoInputs.cache
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\obj\Debug\net8.0\SpaceX_C_SHARP.AssemblyInfo.cs
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\obj\Debug\net8.0\SpaceX_C_SHARP.csproj.CoreCompileInputs.cache
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\obj\Debug\net8.0\SpaceX_C_SHARP.sourcelink.json
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\obj\Debug\net8.0\SpaceX_C_SHARP.dll
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\obj\Debug\net8.0\refint\SpaceX_C_SHARP.dll
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\obj\Debug\net8.0\SpaceX_C_SHARP.pdb
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\obj\Debug\net8.0\SpaceX_C_SHARP.genruntimeconfig.cache
+E:\SpaceX\HelloWorld\SpaceX_C_SHARP\obj\Debug\net8.0\ref\SpaceX_C_SHARP.dll

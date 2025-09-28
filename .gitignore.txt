@@ -1,0 +1,24 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]emp/
+
+# Visual Studio cache/options
+.vs/
+*.user
+*.suo
+
+# Compiled binaries
+*.dll
+*.exe
+*.pdb
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Others
+*.dbmdl
+*.cache
+*.bak
